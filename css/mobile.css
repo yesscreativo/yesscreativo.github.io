@@ -1,0 +1,601 @@
+/*1024*/
+
+.experiencia {
+    margin-top: 14%;
+}
+
+.expe-left {
+    width: 65%;
+    right: 63px;
+}
+
+.experiencia:after {
+    bottom: -10px;
+}
+
+.progressbar canvas {
+    width: 150px !important;
+    height: 150px !important;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+}
+
+.progress-bar-wrapper {
+    margin-bottom: 10px;
+    height: 15px;
+}
+
+.progress-bar{
+	height: 15px;
+}
+
+.info-contacto {
+    width: 40%;
+}
+
+.form-contacto {
+    margin-left: -20%;
+}
+
+.b-portafolio {
+    top: 22% !important;
+}
+.ultimos-proyectos ol.flex-control-nav.flex-control-thumbs {
+    bottom: 0;
+}
+
+
+/*960*/
+@media only screen and (max-width : 960px) {
+.container-menu {
+    display: block;
+}
+
+#menu {
+    position: fixed;
+    top: 0;
+    right: -200px;
+    background-color: #fff;
+    height: 100%;
+    width: 200px;
+    text-align: center;
+    z-index: 999;
+}
+
+#menu .redes {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+header .contact-port {
+    margin-top: 40%;
+}
+
+header .contact-port a{
+	margin-bottom: 10%;
+}
+
+#menu .contact-tel{
+	display: inline-block;
+}
+
+.marcas {
+    width: 80%;
+}
+
+footer {
+    max-height: initial !important;
+}
+
+.der-foot {
+    float: none;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.left-foot {
+    display: block;
+    text-align: center;
+}
+
+.logo-foot {
+    width: 120px;
+    margin: -35px 0 0 30px;
+}
+
+.cont-contacto {
+    position: absolute;
+    width: 90%;
+    left: 5%;
+}
+
+.info-contacto {
+    width: 40%;
+}
+
+.form-contacto {
+    margin-left: -20%;
+}
+
+.logo-contacto {
+    width: 50%;
+    display: inline-block;
+}
+
+.perfil-yess {
+    width: 95%;
+}
+
+.cont-experiencia {
+    width: 95%;
+}
+
+.habilidades-cont {
+    width: 95%;
+}
+
+.portafolio .title-rotar {
+    right: -60px;
+    top: 33%;
+}
+
+.cont-portafolio {
+    width: 80%;
+}
+
+.descripcion-proyecto {
+    width: 100%;
+}
+
+.descripcion-cont {
+    padding: 15% 5% 2% 5%;
+}
+
+.slide-proyectos {
+    width: 100%;
+}
+
+.servicios-cont .cols3 .col{
+    width: 49%;
+}
+
+.servicios-cont .cols3 > .col:nth-child(3n) {
+    margin-right: 2%;
+}
+
+.servicios-cont .cols3 > .col:nth-child(2n) {
+    margin-right: 0;
+}
+
+.servicios-desc {
+    width: 38%;
+}
+
+.servicios-cont {
+    width: 55%;
+}
+
+.habilidades .title-rotar {
+    left: 75%;
+}
+
+.hover-servicio {
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 4% 2%;
+    height: auto;
+    background-color: #fff;
+    color: #1ABC9C;
+    visibility: visible;
+    opacity: 1;
+    margin-top: 10px;
+    -ms-display: inline-block;
+    display: inline-block;
+}
+
+.servicios-cont .col {
+    overflow: visible;
+    height: auto;
+}
+
+.hover-servicio .cont-btn {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+.ultimos-proyectos ol.flex-control-nav.flex-control-thumbs {
+    position: relative;
+    width: 100%;
+}
+
+
+}
+
+
+
+/*728*/
+@media only screen and (max-width : 728px) {
+.img-perfil {
+    width: 65%;
+    float: none;
+    margin: 0 auto;
+}
+
+.cont-perfil {
+    width: 90%;
+    float: none;
+    margin: 0 auto;
+    margin-top: -10%;
+}
+
+.cont-perfil h2 {
+    margin-left: 0%;
+}
+
+.copy-banner h1{
+    letter-spacing: 8px;
+}
+
+.expe-left {
+    width: 100%;
+    right: 0;
+}
+
+.icon-experiencia {
+    position: absolute;
+    left: 50%;
+    margin: 0;
+    top: 0;
+    margin-left: -45px;
+}
+
+.expe-c {
+    width: 100%;
+    text-align: center;
+    margin-top: 115px;
+}
+
+.txt-descript-expe {
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.cont-experiencia .txt-descript-expe {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 15px 0;
+}
+
+.txt-descript-expe:before {
+    display: none;
+}
+
+.experiencia .title-rotar {
+    right: -70px;
+    top: 8%;
+}
+
+.expe-right {
+    text-align: left;
+    width: 100%;
+    left: 0;
+    margin-left: 0;
+    position: relative;
+    z-index: 999;
+}
+
+.expe-right .icon-experiencia {
+    margin-left: -45px;
+    margin-right: 0;
+}
+
+.ultimo {
+    width: 50%;
+    float: none;
+    margin-right: 0;
+    margin: 0 auto;
+    margin-bottom: 2%;
+}
+
+.diseno, .web {
+    width: 49%;
+    float: left;
+    margin-bottom: 2%;
+}
+
+.ecommerce {
+    width: 100%;
+}
+
+.portafolio {
+    padding: 110px 0 50px 0;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+.experiencia:after {
+    height: 100px;
+}
+
+.portafolio-cont {
+    width: 95%;
+}
+.cont-ultimo .cont-btn {
+    margin-right: 20px;
+}
+
+
+
+
+}
+
+
+/*600*/
+@media only screen and (max-width : 600px) {
+.carousel.c-marcas .flex-control-nav {
+    display: none;
+}
+
+.form-contacto {
+    width: 100%;
+    float: none;
+    margin-left: 0;
+}
+
+.info-contacto {
+    width: 100%;
+    float: none;
+}
+
+.logo-contacto {
+    width: 20%;
+    display: inline-block;
+}
+
+.mail {
+    color: #fff;
+    font-size: 14px;
+    margin-top: 0;
+    display: inline;
+}
+
+.info-contacto {
+    width: 96%;
+    float: none;
+    margin-bottom: -12%;
+    padding: 2%;
+}
+
+.btn-cerrar {
+    color: #fff;
+    top: 23px;
+}
+
+#portfolio {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    -webkit-column-width: 25%;
+    -moz-column-width: 25%;
+    column-width: 25%;
+}
+
+.servicios-desc {
+    width: 100%;
+    margin: 0;
+    position: absolute;
+    top: 20px;
+    left: 10%;
+    width: 80%;
+    text-align: center;
+}
+
+.servicios-cont {
+    width: 100%;
+    margin: 160px 0 0 0;
+}
+
+.servicios-cont .cols3 {
+    margin-right: 15%;
+}
+
+.servicios:after {
+    height: 160px;
+}
+
+.habilidades .title-rotar {
+    left: 70%;
+}
+
+.portafolio {
+    grid-template-columns: 1fr 1fr;
+    padding: 110px 2% 50px 2%;
+}
+.slide-ultimos .slides li {
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+}
+.cont-ultimo {
+    padding: 10px 0 0 0;
+}
+
+
+
+
+}
+
+
+
+/*480*/
+@media only screen and (max-width : 480px) {
+#logo {
+    width: 150px;
+}
+
+header p {
+    font-size: 13px;
+    margin-left: -65px;
+}
+
+header marquee {
+    width: 50px;
+}
+
+.banner-top {
+    padding-top: 15%;
+}
+
+.container-menu {
+    width: 40px;
+}
+
+.cont-perfil h3 {
+    margin-top: 12%;
+    margin-right: 0;
+    line-height: 125%;
+}
+
+.cont-perfil p {
+    font-size: 13px;
+    line-height: 130%;
+    margin-left: 0;
+    margin-top: 5%;
+}
+
+#scene {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.gif-habilidades {
+    width: 50%;
+    float: none;
+    margin-right: 0;
+    margin: 0 auto;
+}
+
+.habilidades .title-rotar {
+    left: -70px;
+}
+
+.hablilidades-bar {
+    width: 90%;
+    float: none;
+    margin: 0 auto;
+}
+
+.diseno, .web {
+    width: 70%;
+    float: none;
+    margin: 0 auto;
+    margin-bottom: 2%;
+}
+
+.ultimo {
+    width: 70%;
+}
+
+.redes, .contact-port {
+    display: block;
+    vertical-align: middle;
+    margin-bottom: 20px;
+}
+
+.form-contacto {
+    background-position: 100%;
+}
+
+.cont-form {
+    width: 85%;
+    margin: 0 auto;
+    margin-left: 7%;
+    padding: 3% 0;
+}
+
+.info-contacto {
+    margin-bottom: -5%;
+}
+
+#portfolio {
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1;
+    -webkit-column-width: 100%;
+    -moz-column-width: 100%;
+    column-width: 100%;
+}
+
+.portafolio-cont {
+    width: 80%;
+}
+
+.btn-portafolio {
+    display: block;
+    text-align: center;
+    width: 100%;
+}
+
+.descripcion-cont {
+    padding: 20% 5% 2% 5%;
+}
+
+.servicios-cont .cols3 .col {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 2%;
+    height: auto;
+}
+
+.servicios-cont .col {
+    height: 200px;
+}
+
+.portafolio {
+    grid-template-columns: 1fr;
+    padding: 20px 2% 50px 2%;
+}
+
+
+
+
+}
+
+
+
+/*320*/
+@media only screen and (max-width : 353px) {
+.logo-foot {
+    width: 120px;
+    margin: -35px 0 10px 0;
+}
+
+.contact-tel {
+    display: block;
+    width: 140px;
+    margin: 0 auto;
+}
+
+.portafolio-cont {
+    width: 95%;
+}
+
+.descripcion-cont {
+    padding: 25% 5% 2% 5%;
+}
+
+
+
+
+
+}
