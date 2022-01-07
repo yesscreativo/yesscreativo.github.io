@@ -45,7 +45,7 @@
 
 				<h3 class="animatable bounceIn">Soy Yesid Parra, Diseñador Gráfico, enfocado en el área digital.</h3>
 
-				<p class="animatable fadeIn">Con más de 8 años de experiencia en Diseño y Maquetación (HTML/CSS) de Sitios Web, E-commerce, manejo de diferentes cuentas para Redes Sociales, E-mail Marketing, hace que esté a la vanguardia en constante investigación de nuevas tecnologías, tendencias que funcionen a la conceptualización de una idea para ayudar a comunicar de manera efectiva las diferentes estrategias para cada marca.</p>
+				<p class="animatable fadeIn">Con más de 9 años de experiencia en Diseño y Maquetación (HTML/CSS) de Sitios Web, E-commerce, manejo de diferentes cuentas para Redes Sociales, E-mail Marketing, hace que esté a la vanguardia en constante investigación de nuevas tecnologías, tendencias que funcionen a la conceptualización de una idea para ayudar a comunicar de manera efectiva las diferentes estrategias para cada marca.</p>
 			</div>
 		</div>
 
