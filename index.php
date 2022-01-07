@@ -41,7 +41,7 @@
 			</div>
 
 			<div class="cont-perfil">
-				<h2>Conoce algo <span>sobre mi</span></h2>
+				<h2>Conoce algo <span>sobre mi </span></h2>
 
 				<h3 class="animatable bounceIn">Soy Yesid Parra, Diseñador Gráfico, enfocado en el área digital.</h3>
 
